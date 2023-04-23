@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    padding: 1rem;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+
+}
+ul a {
+    color: aliceblue;
+}
